@@ -10,6 +10,8 @@
 @import url('./features.css');
 @import url('./video.css');
 @import url('./team.css');
+@import url('./feedback.css');
+@import url('./footer.css');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
