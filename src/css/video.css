@@ -1,3 +1,28 @@
 .video {
-    background-color: blue;
+background: #06071B;
+display: flex;
 }
+
+.video-tittle {
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: normal;
+}
+
+.video-text {
+color: #FFF;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: normal;
+}
+
+.icon-social-list {
+display: flex;
+}
+
+.icon-social-item {}
+
+.video-social-icon {}
