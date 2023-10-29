@@ -1,3 +1,53 @@
+
 .hero {
-    background-color: lightcoral;
+    padding-top: 145px;
+    padding-bottom: 146px;
+    background-color: #06071B;
+    background-image: url(../img/hero/iPhone.png), url(../img/hero/main.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.hero-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 12px;
+}
+
+.hero-subtitle {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 28px;
+}
+
+.hero-list {
+    
+}
+
+.hero-list-item:not(:last-child) {
+    margin-bottom: 14px;
+}
+
+.hero-list-item {
+    color: #FFF;
+    font-size: 14px;
+    line-height: normal;
+}
+
+.hero-btn {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    cursor: pointer;
+    width: 200px;
+    height: 42px;
+    border-radius: 5px;
+    background: linear-gradient(90deg, #00C5EB -1.97%, #B544FE 89.43%);
+    margin-top: 62px;
 }
